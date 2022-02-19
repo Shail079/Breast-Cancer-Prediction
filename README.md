@@ -1,4 +1,4 @@
-# Breast Cancer Prediction using Predictive Analytics model
+# Breast Cancer Prediction using Logistic Regression model
 ---
 
 ### Objective:
